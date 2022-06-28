@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Testing
 - 🌱 I’m currently learning about Dev ops
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me on instagram @rhg_642
+- 📫 How to reach me on instagram @rhg_842
 
 <!---
 RHG642/RHG642 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
